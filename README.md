@@ -22,5 +22,6 @@ Para la reproduccion de sonido utilizo el metodo makeMusic() y el código que re
 
 ## Herramientas utilizadas.
 
-Debe estar instalada la libreria de [open CV](http://www.magicandlove.com/blog/2018/11/22/opencv-4-0-0-java-built-and-cvimage-library/)
+Debe estar instalada la libreria de [open CV](http://www.magicandlove.com/blog/2018/11/22/opencv-4-0-0-java-built-and-cvimage-library/).
+
 Debe estar instalada la libreria de [soundcipher](http://explodingart.com/soundcipher/download.html).
